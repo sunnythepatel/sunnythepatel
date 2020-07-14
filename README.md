@@ -1,10 +1,10 @@
-### Hi there! I'm Sunny 👋
+### Hi there! I'm Sunny 👋 <p align="right">
+<img src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" alt="G'day! I'm Sunny!" />
+</p>
 
 <!--
 **sunnypatel7/sunnypatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/header.png" alt="G'day! I'm Tim!" />
-</p>
+
 
 Here are some ideas to get you started:
 
