@@ -3,6 +3,7 @@
 <p>
 <img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" width="200" height="200" alt="G'day! I'm Sunny!" />
 </p>
+<br>
 
 <!--
 **sunnypatel7/sunnypatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
