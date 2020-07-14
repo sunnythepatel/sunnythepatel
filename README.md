@@ -23,8 +23,8 @@ Nice to meet you! I'm a software developer, originally from Mumbai, India 🇮�
 
 In my free time, I love to work and learn on iOS and Android App Development where I'm currently learning Swift UI and about to start a new project soon. Besides that, I love reading novels 📖 and travelling to different places 🧳. 🎉
 
-<p>
-<h4 align="center"> Find and Connect me around the web 🌎: </h4>
+<p align="center">
+<h4> Find and Connect me around the web 🌎: </h4>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sunnypatel07/">
