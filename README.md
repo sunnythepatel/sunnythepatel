@@ -25,6 +25,7 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 
 <p align="center">
  <b> Find and Connect me around the web 🌎: </b>
+ <br>
 <a href="https://www.linkedin.com/in/sunnypatel07/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/sunnythepatel">
