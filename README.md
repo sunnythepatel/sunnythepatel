@@ -1,4 +1,4 @@
-## Hi there! I'm Sunny 👋
+## Hi, Sunny Patel 👨🏼‍💻
 <img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/Picture%201.png" alt="G'day! I'm Sunny!" /><br><br>
 
 
