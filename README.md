@@ -1,5 +1,5 @@
 ### Hi there! I'm Sunny 👋 <p align="right">
-<img src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" alt="G'day! I'm Sunny!" />
+<img src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" width="200" height="200" alt="G'day! I'm Sunny!" />
 </p>
 
 <!--
