@@ -1,5 +1,5 @@
 ### Hi there! I'm Sunny 👋
-<img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" width="200" height="200" alt="G'day! I'm Sunny!" /><br><br>
+<img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" width="150" height="150" alt="G'day! I'm Sunny!" /><br><br>
 
 
 <!--
