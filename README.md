@@ -1,6 +1,6 @@
 
-### Hi there! I'm Sunny 👋 
 <p>
+ <h3> ### Hi there! I'm Sunny 👋 </h3>
 <img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/wwdcimage.jpg" width="200" height="200" alt="G'day! I'm Sunny!" />
 </p>
 
