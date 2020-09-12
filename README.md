@@ -36,7 +36,7 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
 
-<table>
+<table align="center">
   <tr>
     <td>You are visitor no:</td>
     <td><img src="https://profile-counter.glitch.me/sunnythepatel/count.svg" alt="" /></td>
