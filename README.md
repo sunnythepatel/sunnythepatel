@@ -34,4 +34,12 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 <img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a> 
 </p>
 
-![Visitor Count](https : //profile-counter.glitch.me/{sunnythepatel}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/sunnythepatel/count.svg)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://ryan-lanciaux-counter.glitch.me/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
