@@ -40,6 +40,6 @@ In my free time, I love to work and learn on iOS and Android App Development whe
   <tr>
     <td>You are visitor</td>
     <td><img src="https://ryan-lanciaux-counter.glitch.me/count.svg" alt="" /></td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/sunnythepatel/count.svg" alt="" /></td>
   </tr>
 </table>
