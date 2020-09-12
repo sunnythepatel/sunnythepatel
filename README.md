@@ -34,7 +34,7 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 <img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a> 
 </p>
 
-** ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
 
 <table>
   <tr>
