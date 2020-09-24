@@ -22,6 +22,17 @@ Nice to meet you! I'm a software developer, originally from Mumbai, India 🇮�
 
 In my free time, I love to work and learn on iOS and Android App Development where I'm currently learning Swift UI and about to start a new project soon. Besides that, I love reading novels 📖 , listening music 🎶 and travelling to different places 🧳. 🎉
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
+
+<table align="center">
+  <tr>
+    <td>You are visitor no:</td>
+    <td><img src="https://profile-counter.glitch.me/sunnythepatel/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 <p align="center">
  <b> Find and Connect me around the web 🌎: </b><br>
 <a href="https://www.linkedin.com/in/sunnypatel07/">
@@ -33,13 +44,3 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 <a href="https://www.facebook.com/sunny.patel07">
 <img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a> 
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
-<!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
-
-<table align="center">
-  <tr>
-    <td>You are visitor no:</td>
-    <td><img src="https://profile-counter.glitch.me/sunnythepatel/count.svg" alt="" /></td>
-  </tr>
-</table>
