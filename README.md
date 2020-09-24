@@ -35,12 +35,17 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 
 <p align="center">
  <b> Find and Connect me around the web 🌎: </b><br>
-<a href="https://www.linkedin.com/in/sunnypatel07/">
+<a href="https://www.linkedin.com/in/sunnypatel07/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> 
+<a href="https://twitter.com/sunnythepatel"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a> 
+<a href="https://www.instagram.com/sunny.patel07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/></a> 
+<a href="https://www.facebook.com/sunny.patel07"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
+<!-- <a href="https://www.linkedin.com/in/sunnypatel07/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/sunnythepatel">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>  
 <a href="https://www.instagram.com/sunny.patel07/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://www.facebook.com/sunny.patel07">
-<img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a> 
+<img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a>  -->
 </p>
+
