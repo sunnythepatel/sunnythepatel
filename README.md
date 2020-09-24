@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Nice to meet you! I'm a software developer, originally from Mumbai, India 🇮🇳, but presently based in Melbourne, Australia 🇦🇺. Currently, I am working as a Software Developer at [Monash Uni MeRC](https://www.monash.edu/researchinfrastructure/eresearch?option=com_content&view=article&id=62&Itemid=154) and as a Part-time Sessional Teaching Associate at [Monash Uni FIT](https://www.monash.edu/it). 👨🏼‍💻
 
-In my free time, I love to work and learn on iOS and Android App Development where I'm currently learning Swift UI and about to start a new project soon. Besides that, I love reading novels 📖 , listening music 🎶 and travelling to different places 🧳. 🎉
+In my free time, I love to work and learn on iOS and Android App Development. Besides that, I love reading novels 📖 , listening music 🎶 and travelling to different places 🧳. 🎉
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
