@@ -34,7 +34,7 @@ In my free time, I love to work and learn on iOS and Android App Development whe
 <img src="https://img.shields.io/badge/-Facebook-%239146FF" alt="Facebook" /></a> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
 
 <table align="center">
