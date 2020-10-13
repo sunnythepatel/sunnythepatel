@@ -24,7 +24,7 @@ In my free time, I love to work and learn on iOS and Android App Development. Be
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythepatel&layout=compact&theme=dark" /></p>
+<!--<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythepatel&layout=compact&theme=dark" /></p>  -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/sunnythepatel/count.svg) -->
 
 <table align="center">
