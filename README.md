@@ -41,7 +41,7 @@ In my free time, I love to work and learn on iOS and Android App Development. Be
 <a href="https://www.instagram.com/sunny.patel07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/></a> 
 <a href="https://www.facebook.com/sunny.patel07"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
 <a href="mailto:sunny.patel@hey.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png"/></a>
-<a href="https://www.patelsunny.com"><img src="https://img.icons8.com/bubbles/50/000000/attach-resume-male.png"/></a>
+<a href="https://patelsunny.com"><img src="https://img.icons8.com/bubbles/50/000000/attach-resume-male.png"/></a>
 <!-- <a href="https://www.linkedin.com/in/sunnypatel07/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/sunnythepatel">
