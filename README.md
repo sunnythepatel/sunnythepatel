@@ -22,6 +22,9 @@ Nice to meet you! I'm a software developer, originally from Mumbai, India 🇮�
 
 In my free time, I love to work and learn on iOS and Android App Development. Besides that, I love reading novels 📖 , listening music 🎶 and travelling to different places 🧳. 🎉
 
+- 📚 Currently learning Kubernetes, DevOps, Docker.
+- 🤔 Interests: Distributed systems, Microservices.
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunnythepatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
 <!--<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythepatel&layout=compact&theme=dark" /></p>  -->
