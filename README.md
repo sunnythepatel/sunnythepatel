@@ -22,7 +22,7 @@ Nice to meet you! I'm a software developer, originally from Mumbai, India 🇮�
 
 In my free time, I love to work and learn on iOS and Android App Development. Besides that, I love reading novels 📖 , listening music 🎶 and travelling to different places 🧳. 🎉
 
-- 📚 Currently learning Kubernetes, DevOps, Docker, System Administration.
+- 📚 Currently learning: Kubernetes, DevOps, Docker, System Administration.
 - 🤔 Interests: Distributed systems, Microservices.
 
 
