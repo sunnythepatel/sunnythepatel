@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, Sunny Patel 👨🏼‍💻
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">, Sunny Patel 👨🏼‍💻
 <img align="right" src="https://github.com/sunnythepatel/sunnythepatel/blob/master/Picture%201.png" alt="G'day! I'm Sunny!" /><br><br>
 
 
